@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+scikit-learn
+joblib
+ruff
+agno
+groq
+python-dotenv
