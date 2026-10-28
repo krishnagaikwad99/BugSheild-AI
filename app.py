@@ -4,7 +4,7 @@ import streamlit as st
 from analyzer import analyze_code
 from feature_extractor import extract_features
 from bug_predictor import predict_defect_risk
-from ai_agent import analyze_with_ai
+from ai_agent import analyze_code as analyze_with_ai
 
 
 # -------------------- PAGE CONFIGURATION --------------------
